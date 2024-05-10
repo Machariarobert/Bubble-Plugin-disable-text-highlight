@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "containers",
+        "1": "PDF",
+        "2": "productivity"
+    },
+    "description": "This plugin automaticaly prevents text highlighting.",
+    "image": "//meta-q.cdn.bubble.io/f1715365439760x306724102396780160/image-removebg-preview%20%2856%29.png",
+    "license": "open_source",
+    "name": "disable text highlight",
+    "plugin_instructions": "Youre good to go fter the installation"
+}

@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAC": {
+            "name": "noneselect.css",
+            "url": "//meta-q.cdn.bubble.io/f1715365862121x366532103753110660/noneselect.css"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}

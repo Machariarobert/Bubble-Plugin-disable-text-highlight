@@ -1,0 +1,10 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 1,
+        "width": 1
+    },
+    "display": "highlight dissabler",
+    "icon": "ion-android-menu"
+}
